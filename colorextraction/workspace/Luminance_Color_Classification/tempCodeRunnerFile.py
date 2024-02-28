@@ -1,0 +1,1 @@
+hsv_image = merge_channels(hue, saturation, value)
